@@ -209,6 +209,7 @@ Below table summarised the final scores for the models for comparison:
 | Gradient Boosting Classifier (tuned) | 0.8195 | 0.8174 | 0.8456 | 0.8481 | 0.6332 | 0.7030 | 0.7742 |
 | AdaBoost Classifier (default) | 0.8060 | 0.8026 | 0.8314 | 0.8331 | 0.6391 | 0.7152 | - |
 | AdaBoost Classifier (tuned) | 0.8158 | 0.8158 | 0.8397 | 0.8391 | 0.6571 | 0.7212 | 0.7793 |
+
 After our submission to Kaggle with the predictions from the tuned ADA model, the final public score was *0.7793*.
 Thus, since the ADA model bested both the baseline and GBC model in all scoring metrics, we have chose the AdaBoost Classifier as the final model for our project.
 
